@@ -10,7 +10,7 @@
 
 
 
-# <img src="https://user-images.githubusercontent.com/113893463/201524366-76ac30c3-bad6-4617-86bf-898a08331642.gif" width="72px">        IOT Based Smart Crop Protection System for Agriculture
+# TOPIC: IOT Based Smart Crop Protection System for Agriculture
 
 
 

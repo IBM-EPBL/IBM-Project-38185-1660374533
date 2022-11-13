@@ -10,7 +10,7 @@
 
 
 
-# <img src="https://user-images.githubusercontent.com/113893463/201524366-76ac30c3-bad6-4617-86bf-898a08331642.gif" width="70px">        IOT Based Smart Crop Protection System for Agriculture
+# <img src="https://user-images.githubusercontent.com/113893463/201524366-76ac30c3-bad6-4617-86bf-898a08331642.gif" width="72px">        IOT Based Smart Crop Protection System for Agriculture
 
 
 
@@ -19,7 +19,7 @@
     TEAM ID: PNT2022TMID36989
     
     
-# <img src="" width="70px">TEAM MEMBERS
+# <img src="https://user-images.githubusercontent.com/113893463/201524711-070df3ca-b5d3-406f-b05b-616ea9b30057.gif" width="70px">TEAM MEMBERS
      ANJANI KUMAR[TEAMLEAD]
      AJAY KUMAR[TEAM MEMBER]
      SASIKALA[TEAM MEMBER]

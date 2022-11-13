@@ -26,7 +26,7 @@
      HEMA[TEAM MEMBER]
 
 
-# <img src="" width="70px"> PROJECT DESCRIPTION
+# <img src="https://user-images.githubusercontent.com/113893463/201524813-da227f97-dc81-447f-87a4-71f154047546.gif" width="70px"> PROJECT DESCRIPTION
       An intelligent crop protection system helps the farmers in protecting the crop
       from the animals and birds which destroy the crop. This system also helps farmers 
       to monitor the soil moisture levels in the field and also the temperature and humidity 

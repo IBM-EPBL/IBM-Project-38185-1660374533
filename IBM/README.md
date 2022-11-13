@@ -10,11 +10,11 @@
 
 
 
-# <img src="https://user-images.githubusercontent.com/113893463/201524366-76ac30c3-bad6-4617-86bf-898a08331642.gif" width="150px">        IOT Based Smart Crop Protection System for Agriculture
+# <img src="https://user-images.githubusercontent.com/113893463/201524366-76ac30c3-bad6-4617-86bf-898a08331642.gif" width="70px">        IOT Based Smart Crop Protection System for Agriculture
 
 
 
-# <img src="" width="70px"> PROJECT DETAILS   
+# <img src="https://user-images.githubusercontent.com/113893463/201524601-2ffeabd1-77cf-4ea2-8e43-5de0e7588999.gif" width="70px"> PROJECT DETAILS   
     TECHNOLOGY:IOT
     TEAM ID: PNT2022TMID36989
     

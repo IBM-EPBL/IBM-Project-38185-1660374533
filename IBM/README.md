@@ -2,7 +2,8 @@
 
  
  
- ![IOT TEMPLATE](https://user-images.githubusercontent.com/113893463/201520609-f3d2e4ae-2bed-4918-aae2-f6edccf59928.jpg)
+ 
+![IMAGE](https://user-images.githubusercontent.com/113893463/201526449-74a51374-0c8c-41cb-bb79-273f6e1746d2.jpg)
 
 
 

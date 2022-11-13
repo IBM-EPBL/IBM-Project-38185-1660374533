@@ -6,8 +6,9 @@ IOT Based Smart Crop Protection System for Agriculture
 
 ## TOPIC:IoT Based Smart Crop Protection System for Agriculture
 
+![349c8f0432cd0cda8aa32ad72683a0d4](https://user-images.githubusercontent.com/113893463/201521272-f1cfc9d4-9aca-4dd7-abd2-c1a186b50e15.gif)
 
-### PROJECT DETAILS   ![349c8f0432cd0cda8aa32ad72683a0d4](https://user-images.githubusercontent.com/113893463/201521272-f1cfc9d4-9aca-4dd7-abd2-c1a186b50e15.gif
+### PROJECT DETAILS   
     TECHNOLOGY:IOT
     TEAM ID: PNT2022TMID36989
     
